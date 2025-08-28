@@ -6,28 +6,28 @@
 #    - token: "ajkdfhakljh2352009adfha" can be set using the environment variable SPLITE_TOKEN=ajkdfhakljh2352009adfha
 #    - music.dj.commands: ["play", "skip", "stop"] can be set using the environment variable SPLITE_MUSIC_DJ_COMMANDS="play, skip, stop"
 
-botName: "Splite"
+botName: "Shiba"
 
 # Message Content Intent is required for this to work.
-defaultPrefix: ".."
+defaultPrefix: "+"
 
 # Bot Token (https://discord.com/developers/applications)
 token: ""
 
 # Invite link to your support server
-supportServer: "https://discord.gg/8Uk2REYmd3"
+supportServer: "https://discord.gg/7e74hzDdqg"
 
 # ID of the support Server. BOT MUST HAVE PERMISSION TO SEND MESSAGES IN THIS CHANNEL
-supportServerId: "812345678901234567"
+supportServerId: "1404647296162857040"
 
 # ID of the channel (in the support server) where bug reports will be sent
-bugReportChannelId: "812345678901234567"
+bugReportChannelId: "1405703131924402198"
 
 # ID of the channel (in the support server) where feedback will be sent
-feedbackChannelId: "812345678901234567"
+feedbackChannelId: "1405703131924402198"
 
 # ID of the channel (in the support server) where confession reports will be sent
-confessionReportsID: "812345678901234567"
+confessionReportsID: "1405703131924402198"
 
 # Image link to your bot's icon
 botLogoURL: "https://i.imgur.com/B0XSinY.png"
@@ -38,11 +38,11 @@ disabledCommands:
     - "command2"
 # List of owners of the bot, they will be able to use owner commands
 owners:
-    - '123456789012346578'
+    - '1384295514979434586'
 # List of managers of the bot, they will be able to use manager commands
 managers:
-    - '123456789012346578'
-    - '123456789012346578'
+    - '1384295514979434586'
+    - '1384295514979434586'
 # Webserver settings, mainly used for top.gg webhooks, can also be used for dashboard (not implemented by default)
 webserver:
     enabled: false  # If true, will enable the webserver
